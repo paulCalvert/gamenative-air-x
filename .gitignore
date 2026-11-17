@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+# never commit game files or media
+*.pak
+*.jks
+*.mp4
+*.ivf
+*.ogg
+*.dll
+*.exe
